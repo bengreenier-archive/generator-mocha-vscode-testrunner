@@ -1,7 +1,7 @@
 {
   "name": "generator-mocha-vscode-testrunner",
   "version": "0.1.0",
-  "description": "yeoman generator for vscode mocha test runner",
+  "description": "yeoman generator for mocha-vscode-testrunner",
   "license": "MIT",
   "main": "app/index.js",
   "repository": {
